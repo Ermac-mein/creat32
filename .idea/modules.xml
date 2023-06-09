@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalcApp/.idea/CalcApp.iml" filepath="$PROJECT_DIR$/CalcApp/.idea/CalcApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EndeApp/.idea/EndeApp.iml" filepath="$PROJECT_DIR$/EndeApp/.idea/EndeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicApp/.idea/MusicApp.iml" filepath="$PROJECT_DIR$/MusicApp/.idea/MusicApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToeApp/.idea/TicTacToeApp.iml" filepath="$PROJECT_DIR$/TicTacToeApp/.idea/TicTacToeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/creat32.iml" filepath="$PROJECT_DIR$/.idea/creat32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textpadApp/.idea/textpadApp.iml" filepath="$PROJECT_DIR$/textpadApp/.idea/textpadApp.iml" />
+    </modules>
+  </component>
+</project>
